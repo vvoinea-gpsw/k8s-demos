@@ -9,3 +9,4 @@ spec:
   selector:
     app: guestbook-ui
 # add a tag
+# added a second tag
